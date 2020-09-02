@@ -57,7 +57,7 @@ VALUES
 ),
 (
   'Story: 13 Points',
-  '3572ae',
+  'b845fc',
   'This task is very large and may need to be broken down into smaller stories'
 ),
 (
@@ -87,7 +87,7 @@ VALUES
 ),
 (
   'In Progress',
-  'f9a602',
+  'f0db4f',
   'This task is currently being worked on'
 ),
 (
