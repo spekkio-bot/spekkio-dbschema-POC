@@ -87,7 +87,7 @@ VALUES
 ),
 (
   'In Progress',
-  'f9a602',
+  'f0db4f',
   'This task is currently being worked on'
 ),
 (
