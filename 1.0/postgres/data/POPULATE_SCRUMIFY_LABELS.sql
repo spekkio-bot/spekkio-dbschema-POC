@@ -76,6 +76,11 @@ VALUES
   'This is a large collection of stories to complete'
 ),
 (
+  'Active Sprint',
+  'ffffff',
+  'This task is in an active sprint'
+),
+(
   'Backlog',
   '89e051',
   'This task is currently in the backlog'
@@ -86,9 +91,34 @@ VALUES
   'This task is open and not in progress'
 ),
 (
+  'Reopened',
+  '02292b',
+  'This task was previously closed and has been reopened'
+),
+(
+  'Deferred',
+  '02292b',
+  'This task has been deferred and is not in progress'
+),
+(
   'In Progress',
   'f0db4f',
   'This task is currently being worked on'
+),
+(
+  'Code Review',
+  'f0db4f',
+  'This task is currently in code review'
+),
+(
+  'Done',
+  '44883e',
+  'This task is complete'
+),
+(
+  'Verified',
+  '44883e',
+  'This task has been verified'
 ),
 (
   'Fixed',
